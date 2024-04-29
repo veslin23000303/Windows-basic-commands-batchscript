@@ -24,7 +24,7 @@ Execute the necessary commands/batch file for the desired output.
 
 
 # WINDOWS COMMANDS:
-DEVELOPED BY:VESLIN ANISH REGISTER NUMBER:212223240175
+DEVELOPED BY:VESLIN ANISH A  REGISTER NUMBER:212223240175
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
 ```
